@@ -1,0 +1,14 @@
+/* 用less 设置变量 */
+/* $primary_color: aqua; */
+.base {
+    border: none;
+    border-color: aqua;
+    border-radius: 3px;
+    padding: 3px 10px;
+    color: #fff;
+}
+
+
+.primary {
+    background-color: aqua;
+}
